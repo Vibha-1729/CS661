@@ -3,7 +3,7 @@ Question 1 \\
 This script extracts a 2D isocontour from a 3D .vti (VTK ImageData) volume file and saves the contour as a .vtp (VTK PolyData) file.
 The isocontour represents locations in a 2D slice where the scalar field equals a specified isovalue, which can be between [(-1438, 630)].
 Command for running the script:
-```bash python extract_isocontour.py Isabel_2D.vti output.vtp ISOVALUE ```
+<pre>  python extract_isocontour.py Isabel_2D.vti output.vtp ISOVALUE </pre>
 for eg:
 python extract_isocontour.py Isabel_2D.vti output.vtp 100
 
