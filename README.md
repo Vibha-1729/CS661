@@ -1,4 +1,7 @@
 # CS661(Big Data Visual Analytics)
+
+Assignment 1 <br>
+
 Question 1<br>
 This script extracts a 2D isocontour from a 3D .vti (VTK ImageData) volume file and saves the contour as a .vtp (VTK PolyData) file.
 The isocontour represents locations in a 2D slice where the scalar field equals a specified isovalue, which can be between [(-1438, 630)].
