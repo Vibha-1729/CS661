@@ -83,7 +83,6 @@ pip install -r requirements.txt
 ```bash
 python newlatest.py
 ```  
-Open **http://127.0.0.1:8050/** in your browser 🎉  
 
 ---
 
